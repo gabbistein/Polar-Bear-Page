@@ -1,7 +1,13 @@
-body{
+body {
     background-color:lightblue;
+    text-align:center;
 }
 
-.paragraph {
-    color:darkblue;
+.thing1 {
+    font-size:50px;
+}
+
+img {
+    border-radius:5px;
+    border:25px solid darkslategray;
 }
